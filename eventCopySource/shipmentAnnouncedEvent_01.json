@@ -1,0 +1,21 @@
+{
+  "header": {
+    "id": "b300f605-786e-4244-a055-02ab2a79ece7",
+    "type": "shipment.announced",
+    "traceId": "ffb11573-d498-4beb-a46e-ae09a3ad8f4a"
+  },
+  "shipmentId": "45895945-9af4-4d3f-9576-4167cda6b1f6",
+  "shippingDate": "2024-02-16T18:00Z",
+  "positions" : [
+    {
+      "salesOrderId": "ca1c288d-2104-41b2-998f-f217a4e7be51",
+      "positionItemId": "42755049-c1bd-499c-8462-2bc6ca9c0209",
+      "productId": "30e5ca99-cced-4261-8f67-f2776fa8fb49"
+    },
+    {
+      "salesOrderId": "ca1c288d-2104-41b2-998f-f217a4e7be51",
+      "positionItemId": "edcb12ba-f938-4f40-9296-061e2da689be",
+      "productId": "30e5ca99-cced-4261-8f67-f2776fa8fb49"
+    }
+  ]
+}

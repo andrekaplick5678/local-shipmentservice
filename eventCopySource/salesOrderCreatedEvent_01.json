@@ -1,0 +1,18 @@
+{
+  "header": {
+    "id": "5366be47-bd62-47b0-854f-b3eee8e287c7",
+    "type": "salesorder.created",
+    "traceId": "5088cea4-b1ed-4d33-a3b9-e7953fc8f49e"
+  },
+  "salesOrderId": "ca1c288d-2104-41b2-998f-f217a4e7be51",
+  "positionItems": [
+    {
+      "positionItemId": "42755049-c1bd-499c-8462-2bc6ca9c0209",
+      "productId": "30e5ca99-cced-4261-8f67-f2776fa8fb49"
+    },
+    {
+      "positionItemId": "edcb12ba-f938-4f40-9296-061e2da689be",
+      "productId": "30e5ca99-cced-4261-8f67-f2776fa8fb49"
+    }
+  ]
+}
